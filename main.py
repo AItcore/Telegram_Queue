@@ -5,7 +5,7 @@ from aiogram.utils import executor
 from aiogram.types import KeyboardButton
 
 
-TOKEN = '1255745151:AAGkabC6ChlteBK1wgzl9hSjf96A60aiRzY'
+TOKEN = ' ' # Токен бота телеграмма
 
 Queue = []
 comm = sqlite3.connect('Users.db')
